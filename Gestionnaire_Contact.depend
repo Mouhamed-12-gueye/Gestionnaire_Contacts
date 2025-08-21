@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1755273645 source:c:\users\user\documents\algorithme\projets\gestionnaire_contact\main.c
+	"GC.h"
+
+1755273462 c:\users\user\documents\algorithme\projets\gestionnaire_contact\gc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1755273462 source:c:\users\user\documents\algorithme\projets\gestionnaire_contact\gc.c
+	"GC.h"
+
